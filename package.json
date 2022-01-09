@@ -19,6 +19,7 @@
   "homepage": "https://github.com/jatindersingh1013/My-project#readme",
   "dependencies": {
     "colour": "^0.7.1",
+    "dependency": "^0.0.1",
     "jest": "^27.4.7"
   }
 }
